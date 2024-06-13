@@ -1,28 +1,3 @@
-from tkinter import *
-from tkinter import messagebox 
-
-root = Tk() 
-root.geometry("300x200") 
-
-w = Label(root, text ='GeeksForGeeks', font = "50") 
-w.pack() 
-
-messagebox.showinfo("showinfo", "Information") 
-
-messagebox.showwarning("showwarning", "Warning") 
-
-messagebox.showerror("showerror", "Error") 
-
-messagebox.askquestion("askquestion", "Are you sure?") 
-
-messagebox.askokcancel("askokcancel", "Want to continue?") 
-
-messagebox.askyesno("askyesno", "Find the value?") 
-
-
-messagebox.askretrycancel("askretrycancel", "Try again?") 
-
-root.mainloop() 
 11111111111111111111111111
 22222222222222222222222222222
 333333333333333333333333333333
@@ -30,3 +5,5 @@ root.mainloop()
 55555555555555555555555555555555555555
 6666666666666666666666666666666666666666666
 777777777777777777777777777777777777777777777
+8888888888888888888888888888888888888888888888
+8888888888888888888888888888888888888888888888
